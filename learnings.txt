@@ -1,4 +1,14 @@
+<h1>STAT QUEST</h1>
+
 Naive Bayes:
 Naive Bayes is calculating the probability and then uses classification on the basis of which number is greater at the end, also you can set alpha(parameter) so that it can handle missing values of a particularword that is not there in a particular data class. For more info refer to https://www.youtube.com/watch?v=O2L2Uv9pdDA
 Gaussian Naive Bayes: 
 They are based on the gaussian distribution made on the various parameters for both the classification and then do the same thing as naive bayes in order to predict which side the particular new entry would move to. Also while dealing with very low likelihood we can use  the help of logarithmic functions so that we get accurate data analysis.
+
+
+Bias:
+The not able to get curved of a staright line in a linear regression is bias and the ability to get good predictions across various datasets is the low variance
+Variance:
+The sum of the squared distance from the model in a regressor determine the type of variance 
+==> Typically a good model should have low variance and low bias and that is done by finding sweet spot between straight line and the complex swiggly lines and that is done by three parameters regularization , boosting , and bagging 
+Youtube link https://www.youtube.com/watch?v=EuBBz3bI-aA
