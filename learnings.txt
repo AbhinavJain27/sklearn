@@ -1,0 +1,3 @@
+Naive Bayes:
+Naive Bayes is calculating the probability and then uses classification on the basis of which number is greater at the end, also you can set alpha(parameter) so that it can handle missing values 
+of a particularword that is not there in a particular data class. For more info refer to https://www.youtube.com/watch?v=O2L2Uv9pdDA
